@@ -8,3 +8,5 @@ languages:
 type:
   - lab
 level: 1
+
+parent_template: git@github.com:learn-co-curriculum/upperline-curfew-checker.git

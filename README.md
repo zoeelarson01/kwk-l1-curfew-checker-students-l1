@@ -1,4 +1,3 @@
-
 ### Curfew Checker Lab
 <img src="https://s3.amazonaws.com/after-school-assets/curfew.jpg" width="300px" align="right" hspace="10"> Imagine you're at Hogwarts and there's a curfew to get back to the common room by 11. Who needs a watch when you could just write a program to check if it's time to get back! Write your code in `curfew_checker.rb`.
 
@@ -93,4 +92,4 @@ If you haven't already, within your method, assign 11 to a variable `curfew`, so
 
 Now it's 7th year and your curfew isn't fixed at 11 anymore, but students from all years have heard about your curfew checker and want to use it, too. Figure out a way to have it not only take in the current time and the curfew, both of which will be different for each user. (Remember, methods can take in more than one parameter.) Pass in both `time` and `curfew`, and use those variables within your code, just like you did in the Deluxe Curfew Checker.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/curfew-checker' title='Curfew Checker Lab'>Curfew Checker Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Curfew Checker Lab</p>
